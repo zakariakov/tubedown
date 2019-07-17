@@ -11,7 +11,7 @@ youtube-dl
 
 git clone https://github.com/zakariakov/tubedown.git
 
-cd elokab-terminal
+cd tubedown
 
 qmake
 
