@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tubdown.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Name=tubedown
+
+Comment=Youtube-dl Qt Gui
+
+Exec=tubedown
+Icon=youtube-dl
+Type=Application
+Categories=Qt;Network;Internet;
+
+
