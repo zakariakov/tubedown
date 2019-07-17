@@ -1,5 +1,5 @@
 # tubedown
-Qt gui forb youtube-dl
+Qt gui for youtube-dl
 
 # Dependencies:
 
